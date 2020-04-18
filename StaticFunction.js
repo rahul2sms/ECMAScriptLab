@@ -20,6 +20,6 @@ class Student extends Collage
     }
 }
 
-const student = new Student("Rahul Jaiswal", "Great School");
+const student = new Student("Rahul", "Great School");
 
 Student.findDetails(student);
